@@ -1,0 +1,27 @@
+{
+  "name": "ewscoursework",
+  "version": "1.0.0",
+  "description": "Package.json for EWS Coursework website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwhipps/EWSCoursework.git"
+  },
+  "author": "Annabelle Whipps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwhipps/EWSCoursework/issues"
+  },
+  "homepage": "https://github.com/alwhipps/EWSCoursework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "babel-loader": "^8.2.5"
+  },
+  "dependencies": {
+    "webpack": "^5.73.0"
+  }
+}
